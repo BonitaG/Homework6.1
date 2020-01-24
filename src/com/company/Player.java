@@ -1,3 +1,5 @@
+package com.company;
+
 public class Player {
     private String type;
     private int year;
